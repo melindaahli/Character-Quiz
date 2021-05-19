@@ -1,0 +1,30 @@
+img {
+    width: 400px;
+}
+
+.results {
+    border: black solid 2px;
+    width: 400px;
+    padding: 10px;
+}
+
+input {
+    width: 165px;
+}
+
+.enter {
+    width: 173px;
+}
+
+body {
+    margin: 20px;
+    background-color: pink;
+}
+
+h1 {
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+.hi {
+    width: 22px;
+}
